@@ -1,0 +1,38 @@
+.Auth {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  align-items: center;
+  background-color: white;
+  border-radius: 20px;
+  padding: 30px;
+  border: 2px solid rgb(9, 124, 182);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Auth input {
+  width: 250px;
+  margin: 10px;
+}
+
+.Register {
+  height: 300px;
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 400px;
+  align-items: center;
+  background-color: white;
+  padding: 10px 0px;
+  border: 2px solid rgb(9, 124, 182);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Register input {
+  margin-top: 20px;
+  width: 250px;
+}
